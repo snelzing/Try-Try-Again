@@ -1,4 +1,4 @@
-# Trying to get a for-loop to allow the inputter to
+# Trying to get a while loop to allow the inputter to
 # let you keep trying over and over again
 # Nothing fancy
 
